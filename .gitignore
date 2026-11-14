@@ -1,0 +1,22 @@
+# Secretos
+.env
+*.env
+!.env.example
+
+# Node / Angular
+node_modules/
+dist/
+.angular/
+
+# Godot 4
+.godot/
+*.import~
+export_presets.cfg
+.mono/
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
